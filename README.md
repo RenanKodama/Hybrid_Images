@@ -1,2 +1,3 @@
-# Hybrid_Images
-Visão Computacional (UTFPR)
+# Universidade Tecnológica Federal do Paraná
+ Visão Computacional (UTFPR)
+ 
